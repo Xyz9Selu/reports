@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-14",
+  "critical_falsifications": [
+    {
+      "ticker": "603379",
+      "name": "三美股份",
+      "scan_role": "散热首选",
+      "verdict": "FALSE_BOTTLENECK",
+      "reason": "业绩来自氟制冷剂配额涨价，董秘未确认AI液冷冷却液主业"
+    },
+    {
+      "ticker": "688179",
+      "name": "阿拉丁",
+      "scan_role": "光刻胶首选",
+      "verdict": "MISMAPPED",
+      "reason": "科研试剂电商，非半导体ArF/KrF光刻胶本体"
+    },
+    {
+      "ticker": "688819",
+      "name": "图谱标天岳",
+      "verdict": "DATA_ERROR",
+      "reason": "688819实为天能股份，天岳先进是688234"
+    }
+  ],
+  "confirmed_structure": [
+    {
+      "name": "源杰科技",
+      "reason": "EML/CW验证+扩产18月，高毛利"
+    },
+    {
+      "name": "华大九天/概伦",
+      "reason": "EDA软件毛利85%+，断供叙事强化"
+    },
+    {
+      "name": "天岳先进",
+      "reason": "全球导电SiC衬底份额第一但价格战损定价权"
+    },
+    {
+      "name": "赣锋硫化锂",
+      "reason": "已量产供货但埋在锂业综合体低毛利中"
+    }
+  ]
+}
