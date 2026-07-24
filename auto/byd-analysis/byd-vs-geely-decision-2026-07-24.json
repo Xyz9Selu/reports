@@ -1,0 +1,179 @@
+{
+  "report_id": "002594-byd-vs-0175-geely-20260724",
+  "title": "BYD vs 吉利汽车 · 商业模式 + 成长性对比",
+  "generated_at": "2026-07-24",
+  "data_as_of": "2026-07-23",
+
+  "judgment": {
+    "summary": "两家是不同物种 —— BYD 是垂直整合的全球巨头,吉利是多品牌组合的全球操盘手。短期(1-2 年)吉利胜(销量 +14% vs +4%,估值修复空间 50%+),长期(5-10 年)BYD 反超(第二曲线已启动,全球巨头天花板更高)",
+    "score_byd": 7.5,
+    "score_geely": 8.5,
+    "confidence": 0.7,
+    "key_insight": "已兑现 vs 未兑现 —— BYD 的全球巨头叙事已 price in(PE 21.8x),吉利的出海反转叙事还未 price in(PE 9.5x)"
+  },
+
+  "stocks": {
+    "byd": {
+      "ts_code": "002594.SZ",
+      "name": "比亚迪",
+      "close": 92.65,
+      "mcap_yi": 8447,
+      "pe_2025a": 25.90,
+      "pe_2026e": 21.83,
+      "pb": 3.71,
+      "ps_ttm": 1.08,
+      "shares_yi": 91.172,
+      "gross_margin_2025": 17.74,
+      "roe_2025": 15.12,
+      "sales_2025_wan": 460.2,
+      "sales_2026e_wan": 480,
+      "overseas_2025_pct": 38.65,
+      "overseas_2026e_wan": 180
+    },
+    "geely": {
+      "ts_code": "0175.HK",
+      "name": "吉利汽车",
+      "close_hkd": 20.90,
+      "mcap_yi_rmb": 2067,
+      "pe_2025a": 12.27,
+      "pe_2026e": 9.50,
+      "pb": 2.25,
+      "shares_yi": 108.7,
+      "gross_margin_2025": 16.61,
+      "roe_2025": 18.20,
+      "sales_2025_wan": 302.5,
+      "sales_2026e_wan": 345,
+      "overseas_2025_pct": 21.41,
+      "overseas_2026e_wan": 80
+    }
+  },
+
+  "comparison_metrics": {
+    "scale": {"winner": "BYD", "ratio": "1.52x"},
+    "growth_rate": {"winner": "Geely", "ratio": "5x 销量增速差"},
+    "profitability_unit_economics": {"winner": "BYD", "car_price_ratio": 1.54, "car_profit_ratio": 1.27},
+    "roe": {"winner": "Geely", "ratio": "1.20x"},
+    "overseas_absolute": {"winner": "BYD", "ratio": "2.50x"},
+    "overseas_growth": {"winner": "Geely", "ratio": "1.20x"},
+    "moat_depth": {"winner": "BYD", "comment": "全产业链 + 海外运营经验"},
+    "moat_breadth": {"winner": "Geely", "comment": "品牌组合覆盖 8-80 万价格段"},
+    "execution_risk": {"winner": "BYD", "comment": "吉利多品牌协调难度更大"}
+  },
+
+  "growth_phases": {
+    "short_term_1_2y": {
+      "winner": "Geely",
+      "byd_growth": "净利 +10-15%",
+      "geely_growth": "净利 +29%",
+      "rationale": "BYD 基数大 + 国内份额下滑;吉利多品牌还在放量阶段"
+    },
+    "mid_term_3_5y": {
+      "winner": "BYD",
+      "byd_advantage": "第二曲线已启动(储能 + 三电外供 + 闪充网络)",
+      "geely_advantage": "智能驾驶(英伟达合作) + 多品牌协同",
+      "rationale": "BYD 已落地 50GWh 三电外供 + 80-100GWh 储能"
+    },
+    "long_term_5_10y": {
+      "winner": "BYD",
+      "byd_target": "全球新能源三巨头之一(BYD/特斯拉/大众)",
+      "geely_target": "中国版大众集团",
+      "byd_2030_revenue": "~¥500 亿净利",
+      "geely_2030_revenue": "~¥280 亿净利",
+      "rationale": "BYD 天花板 5x 于吉利"
+    }
+  },
+
+  "key_metrics": {
+    "byd_pe_2026e": 21.83,
+    "geely_pe_2026e": 9.50,
+    "valuation_gap_ratio": 2.30,
+    "overseas_gap_absolute_ratio": 4.20,
+    "overseas_growth_gap_ratio": 1.20
+  },
+
+  "key_events": [
+    {
+      "date": "2026-04-17",
+      "event": "极氪 8X 上市",
+      "impact": "30 分钟大定破万,Ultra+ 占比 95.6%,均价 40 万+,吉利高端化里程碑"
+    },
+    {
+      "date": "2026-04-14",
+      "event": "吉利控股 Q1 业绩",
+      "impact": "新能源 49.1 万(+5.8%),海外 20.3 万(+126%)"
+    },
+    {
+      "date": "2026-03",
+      "event": "吉利 2025 年报",
+      "impact": "营收 ¥3,452 亿(+25%),海外占比 21.41%,新能源销量 168.8 万(+90%)"
+    },
+    {
+      "date": "2026-06",
+      "event": "新能源车企 6 月排名",
+      "impact": "BYD 39.7 万 / 吉利 15.9 万 / 奇瑞 10.7 万"
+    }
+  ],
+
+  "decision": {
+    "byd_target_price_rmb": 130,
+    "byd_holding_advice": "已持有者持有,等 8 月业绩;未持有者建仓 8%",
+    "byd_hard_stop": 80,
+    "geely_target_price_hkd": null,
+    "geely_holding_advice": "尚未持仓者建议 5-6% 建仓(港股,流动性溢价修复)",
+    "geely_catalyst": "港股流动性修复 + 极氪 8X 量产 + 出海持续 +126%"
+  },
+
+  "next_review": [
+    {
+      "date": "2026-08-01",
+      "event": "BYD 7 月销量公告",
+      "trigger": "海外持续兑现?"
+    },
+    {
+      "date": "2026-08 月底",
+      "event": "BYD H1 业绩",
+      "trigger": "毛利率 + 海外占比 + 单车净利三维验证"
+    },
+    {
+      "date": "2026-08 月",
+      "event": "吉利 H1 业绩",
+      "trigger": "出海 +126% 是否持续?"
+    }
+  ],
+
+  "verification_anchors": {
+    "price_anchors": {
+      "byd_current": 92.65,
+      "geely_current_hkd": 20.90,
+      "byd_52w_low": 77.60,
+      "byd_52w_high": 346.54
+    },
+    "valuation_anchors": {
+      "byd_pe_2026e": 21.83,
+      "byd_pb": 3.71,
+      "byd_ps_ttm": 1.08,
+      "geely_pe_2026e": 9.50,
+      "geely_pb": 2.25
+    },
+    "data_anchors": {
+      "byd_overseas_pct": 45.7,
+      "byd_overseas_2025_growth": 140,
+      "geely_overseas_q1_growth": 126,
+      "byd_roe_2025": 15.12,
+      "geely_roe_2025": 18.20
+    }
+  },
+
+  "data_sources": [
+    "TuShare(2025 年报)",
+    "国信证券吉利汽车研报(2026-03-30)",
+    "新华网极氪 8X 上市报道",
+    "联合早报 / 央视网",
+    "公司公告(吉利 2025 年报、6 月销量)"
+  ],
+
+  "risks": {
+    "byd": ["国内份额持续被蚕食", "海外政策风险", "资本压力高(OCF -56%)"],
+    "geely": ["多品牌执行风险", "港股流动性折价", "沃尔沃文化整合"]
+  }
+}
